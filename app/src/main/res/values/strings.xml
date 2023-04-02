@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kalkulator Lite</string>
+    <string name="tambah">Tambahkan</string>
+    <string name="kurang">Kurangkan</string>
+    <string name="bagi">Dibagi</string>
+    <string name="kali">Dikalikan</string>
+    <string name="bil1">Bilangan 1</string>
+    <string name="bil2">Bilangan 2</string>
+    <string name="pangkat">Dipangkatkan</string>
+</resources>
